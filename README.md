@@ -22,5 +22,6 @@ in the source         code,
 but the        browser
 ignores it.
 </p>
+Lorem Ipsum <div>I am a div</div> dolor sit amet.
 </body>
 </html>
