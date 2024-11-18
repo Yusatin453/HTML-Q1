@@ -30,9 +30,9 @@ Lorem  <div>I am a Lie</div> Truth never .
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Batch 1</td>
+    <td>Batch 2</td>
+    <td>Batch 3</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
