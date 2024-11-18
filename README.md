@@ -22,6 +22,23 @@ in the source         code,
 but the        browser
 ignores it.
 </p>
-Lorem Ipsum <div>I am a div</div> dolor sit amet.
+Lorem  <div>I am a Lie</div> Truth never .
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 </body>
 </html>
